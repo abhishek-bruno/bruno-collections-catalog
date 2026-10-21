@@ -1,0 +1,9 @@
+{
+  "name": "bruno-collections-catalog",
+  "private": true,
+  "description": "OpenCollection API Catalog of the bruno-collections GitHub org",
+  "scripts": {
+    "bundle": "node ../opencollection/packages/oc-parser/bin/opencollection-parser.js bundle . --out catalog.bundled.yml",
+    "bundle:json": "node ../opencollection/packages/oc-parser/bin/opencollection-parser.js bundle . --out catalog.bundled.json"
+  }
+}

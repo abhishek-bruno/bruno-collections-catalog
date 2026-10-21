@@ -1,0 +1,4 @@
+.claude/
+node_modules/
+catalog.bundled.yml
+catalog.bundled.json
