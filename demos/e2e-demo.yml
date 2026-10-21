@@ -1,0 +1,12 @@
+info:
+  name: Bruno E2E Demo
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [testing]
+  seq: 2
+  format: opencollection
+source:
+  kind: git
+  url: https://github.com/bruno-collections/bruno-demo-day-ws.git
+  ref: main
+  subdir: collections/Bruno E2E Demo

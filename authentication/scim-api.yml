@@ -1,0 +1,11 @@
+info:
+  name: Bruno SCIM API
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [scim]
+  seq: 9
+source:
+  kind: git
+  url: https://github.com/bruno-collections/bruno-scim-api-collection.git
+  ref: main
+  subdir: scim-collection

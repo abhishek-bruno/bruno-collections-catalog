@@ -1,0 +1,11 @@
+info:
+  name: API Testing Best Practices Workshop (YAML)
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [testing, workshop]
+  seq: 5
+  format: opencollection
+source:
+  kind: git
+  url: https://github.com/bruno-collections/Webinar-Best-Practices-Feb-2026.git
+  ref: main

@@ -1,0 +1,9 @@
+info:
+  name: Sample Workspace
+  namespace: github.com/bruno-collections
+  type: workspace
+  seq: 3
+source:
+  kind: git
+  url: https://github.com/bruno-collections/sample-workspace.git
+  ref: main

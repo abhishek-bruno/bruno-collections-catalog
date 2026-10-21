@@ -1,0 +1,10 @@
+info:
+  name: OAuth 2.0 Tutorial
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [oauth2]
+  seq: 6
+source:
+  kind: git
+  url: https://github.com/bruno-collections/bruno-oauth2-tutorial-collection.git
+  ref: main

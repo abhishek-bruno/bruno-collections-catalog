@@ -1,0 +1,10 @@
+info:
+  name: WebSockets
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [websocket]
+  seq: 2
+source:
+  kind: git
+  url: https://github.com/bruno-collections/web-sockets.git
+  ref: main

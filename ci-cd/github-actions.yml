@@ -1,0 +1,10 @@
+info:
+  name: GitHub Actions
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [github-actions]
+  seq: 5
+source:
+  kind: git
+  url: https://github.com/bruno-collections/github-actions.git
+  ref: main

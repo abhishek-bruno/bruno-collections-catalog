@@ -1,0 +1,11 @@
+info:
+  name: "Keycloak: Authorization Code"
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [oauth2, keycloak]
+  seq: 3
+source:
+  kind: git
+  url: https://github.com/bruno-collections/oauth-keycloak.git
+  ref: main
+  subdir: collections/keycloak-authorization_code

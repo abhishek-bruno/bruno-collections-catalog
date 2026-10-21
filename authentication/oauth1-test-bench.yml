@@ -1,0 +1,12 @@
+info:
+  name: OAuth 1.0 Test Bench
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [oauth1]
+  seq: 7
+  format: opencollection
+source:
+  kind: git
+  url: https://github.com/bruno-collections/oauth1.git
+  ref: main
+  subdir: tests/fixtures/yml

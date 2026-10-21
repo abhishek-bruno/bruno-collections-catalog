@@ -1,0 +1,12 @@
+info:
+  name: Bruno Slot Machine
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [apps]
+  seq: 5
+  featured: true
+  format: opencollection
+source:
+  kind: git
+  url: https://github.com/bruno-collections/bruno-slot-machine.git
+  ref: main

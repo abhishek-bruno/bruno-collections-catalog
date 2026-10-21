@@ -1,0 +1,10 @@
+info:
+  name: Hugging Face API
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [llm]
+  seq: 2
+source:
+  kind: git
+  url: https://github.com/bruno-collections/Bruno-HuggingFace.git
+  ref: main

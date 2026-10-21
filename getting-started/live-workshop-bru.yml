@@ -1,0 +1,10 @@
+info:
+  name: API Testing Best Practices Workshop (.bru)
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [testing, workshop]
+  seq: 6
+source:
+  kind: git
+  url: https://github.com/bruno-collections/Webinar-Best-Practices-Feb-2026-BRU.git
+  ref: main

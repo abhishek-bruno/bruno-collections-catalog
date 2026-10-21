@@ -1,0 +1,9 @@
+info:
+  name: Node VM Scripting
+  namespace: github.com/bruno-collections
+  type: collection
+  seq: 1
+source:
+  kind: git
+  url: https://github.com/bruno-collections/Node-VM.git
+  ref: main

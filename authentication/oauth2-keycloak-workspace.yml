@@ -1,0 +1,10 @@
+info:
+  name: OAuth 2.0 with Keycloak
+  namespace: github.com/bruno-collections
+  type: workspace
+  tags: [oauth2, keycloak]
+  seq: 1
+source:
+  kind: git
+  url: https://github.com/bruno-collections/oauth-keycloak.git
+  ref: main

@@ -1,0 +1,11 @@
+info:
+  name: Bruno Starter Guide
+  namespace: github.com/bruno-collections
+  type: collection
+  seq: 1
+  featured: true
+  format: opencollection
+source:
+  kind: git
+  url: https://github.com/bruno-collections/bruno-starter-guide.git
+  ref: main

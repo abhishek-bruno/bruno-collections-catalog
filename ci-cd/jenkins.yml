@@ -1,0 +1,10 @@
+info:
+  name: Jenkins
+  namespace: github.com/bruno-collections
+  type: collection
+  tags: [jenkins]
+  seq: 4
+source:
+  kind: git
+  url: https://github.com/bruno-collections/jenkins-setup.git
+  ref: main
