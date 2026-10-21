@@ -1,0 +1,5 @@
+info:
+  name: CI and CD
+  type: folder
+  seq: 6
+  tags: [ci-cd]
