@@ -2,11 +2,11 @@ info:
   name: "Keycloak: Authentication Flows"
   namespace: github.com/bruno-collections
   type: collection
-  tags: [oauth2, keycloak]
+  tags: [ oauth2, keycloak ]
   seq: 2
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/oauth-keycloak.git
-  ref: main
-  subdir: collections/authentications
+  git:
+    repo: https://github.com/bruno-collections/oauth-keycloak.git
+    ref: main
+    subdir: collections/authentications

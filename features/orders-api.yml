@@ -2,11 +2,11 @@ info:
   name: Orders API (OpenAPI Sync)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [openapi-sync]
+  tags: [ openapi-sync ]
   seq: 2
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/openapi-sync-ws.git
-  ref: main
-  subdir: collections/Orders API
+  git:
+    repo: https://github.com/bruno-collections/openapi-sync-ws.git
+    ref: main
+    subdir: collections/Orders API

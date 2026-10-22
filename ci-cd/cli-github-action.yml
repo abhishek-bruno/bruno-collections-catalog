@@ -2,11 +2,11 @@ info:
   name: "Bruno CLI GitHub Action: Payments API Tests"
   namespace: github.com/bruno-collections
   type: collection
-  tags: [github-actions, testing]
+  tags: [ github-actions, testing ]
   seq: 2
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/bruno-cli-action-example.git
-  ref: main
-  subdir: tests/payments
+  git:
+    repo: https://github.com/bruno-collections/bruno-cli-action-example.git
+    ref: main
+    subdir: tests/payments

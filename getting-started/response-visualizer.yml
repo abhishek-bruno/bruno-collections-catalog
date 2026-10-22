@@ -5,6 +5,6 @@ info:
   seq: 4
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/response-visualizer.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/response-visualizer.git
+    ref: main

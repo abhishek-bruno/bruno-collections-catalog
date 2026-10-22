@@ -2,10 +2,10 @@ info:
   name: jsonwebtoken
   namespace: github.com/bruno-collections
   type: collection
-  tags: [libraries, jwt]
+  tags: [ libraries, jwt ]
   seq: 4
 source:
-  kind: git
-  url: https://github.com/bruno-collections/jsonwebtoken.git
-  ref: main
-  subdir: jsonwebtoken
+  git:
+    repo: https://github.com/bruno-collections/jsonwebtoken.git
+    ref: main
+    subdir: jsonwebtoken

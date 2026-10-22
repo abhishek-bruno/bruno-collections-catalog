@@ -2,9 +2,9 @@ info:
   name: gRPC (grpcbin)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [grpc]
+  tags: [ grpc ]
   seq: 1
 source:
-  kind: git
-  url: https://github.com/bruno-collections/gRPC-api-collection.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/gRPC-api-collection.git
+    ref: main

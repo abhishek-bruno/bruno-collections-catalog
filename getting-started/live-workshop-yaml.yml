@@ -1,11 +1,12 @@
 info:
   name: API Testing Best Practices Workshop (YAML)
+  summary: Hands on material and samples from the API Testing Best Practices with Bruno Webinar (Feb 18, 2026)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [testing, workshop]
+  tags: [ testing, workshop ]
   seq: 5
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/Webinar-Best-Practices-Feb-2026.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/Webinar-Best-Practices-Feb-2026.git
+    ref: main

@@ -4,6 +4,6 @@ info:
   type: collection
   seq: 1
 source:
-  kind: git
-  url: https://github.com/bruno-collections/Node-VM.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/Node-VM.git
+    ref: main

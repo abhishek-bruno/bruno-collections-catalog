@@ -22,10 +22,10 @@ CI and CD, AI, Bruno Features, Demos and Workspaces. 45 entries: 40
 collections and 5 workspaces. A workspace and each collection inside it are
 separate entries, because they are separate artifacts.
 
-An entry holds only what a curator decides: listing name, namespace, type,
-tags, order, `featured`, `format`, and exactly one `source`. Title,
-description, version, owner and repository are read from the collection when
-the catalog is resolved, so they never go stale here.
+An entry holds only what a curator decides: listing name, a one-line `summary`,
+namespace, type, tags, order, `featured`, `format`, and where the collection
+lives under `source`: `git` today, and `registry` once the org publishes to the
+Bruno Registry. Adding a location never rewrites the others.
 
 Not listed: the scratch collections in `sample-workspace` (`test`,
 `TestFSystem`, `ocyaml`), `oauth1/tests/fixtures/bru` (the same test collection as the

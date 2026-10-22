@@ -2,9 +2,9 @@ info:
   name: REST and GraphQL APIs
   namespace: github.com/bruno-collections
   type: collection
-  tags: [graphql]
+  tags: [ graphql ]
   seq: 3
 source:
-  kind: git
-  url: https://github.com/bruno-collections/rest-graphql-collection.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/rest-graphql-collection.git
+    ref: main

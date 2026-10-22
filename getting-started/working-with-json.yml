@@ -1,10 +1,11 @@
 info:
   name: Working with JSON
+  summary: This repo has a Bruno collection to familiarize yourself with testing JSON
   namespace: github.com/bruno-collections
   type: collection
-  tags: [testing]
+  tags: [ testing ]
   seq: 3
 source:
-  kind: git
-  url: https://github.com/bruno-collections/json-testing-examples.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/json-testing-examples.git
+    ref: main

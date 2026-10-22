@@ -1,12 +1,13 @@
 info:
   name: Bruno Slot Machine
+  summary: "A conference booth game where the reels are an HTTP response. One Bruno collection: a Collection App for the booth screen, and the requests that drive it."
   namespace: github.com/bruno-collections
   type: collection
-  tags: [apps]
+  tags: [ apps ]
   seq: 5
   featured: true
   format: opencollection
 source:
-  kind: git
-  url: https://github.com/bruno-collections/bruno-slot-machine.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/bruno-slot-machine.git
+    ref: main

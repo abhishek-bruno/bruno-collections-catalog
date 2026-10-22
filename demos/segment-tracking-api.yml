@@ -2,10 +2,10 @@ info:
   name: Segment Tracking API
   namespace: github.com/bruno-collections
   type: collection
-  tags: [analytics]
+  tags: [ analytics ]
   seq: 4
 source:
-  kind: git
-  url: https://github.com/bruno-collections/sample-workspace.git
-  ref: main
-  subdir: collections/Segment Tracking API for Behavioral Analytics
+  git:
+    repo: https://github.com/bruno-collections/sample-workspace.git
+    ref: main
+    subdir: collections/Segment Tracking API for Behavioral Analytics
