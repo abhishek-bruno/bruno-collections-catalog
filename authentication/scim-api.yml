@@ -1,6 +1,6 @@
 info:
   name: Bruno SCIM API
-  summary: SCIM 2.0 user and group provisioning: create, update, deactivate and manage members
+  summary: SCIM 2.0 user and group provisioning, from create to deactivate and group membership
   namespace: github.com/bruno-collections
   type: collection
   tags: [scim]
