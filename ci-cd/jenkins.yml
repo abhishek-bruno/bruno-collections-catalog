@@ -2,7 +2,7 @@ info:
   name: Jenkins
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ jenkins ]
+  tags: [jenkins]
   seq: 4
 source:
   git:

@@ -2,7 +2,7 @@ info:
   name: "External Libraries: Zod"
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ libraries ]
+  tags: [libraries]
   seq: 3
 source:
   git:

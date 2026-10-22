@@ -2,7 +2,7 @@ info:
   name: OpenAPI Sync Workspace
   namespace: github.com/bruno-collections
   type: workspace
-  tags: [ openapi-sync ]
+  tags: [openapi-sync]
   seq: 1
 source:
   git:

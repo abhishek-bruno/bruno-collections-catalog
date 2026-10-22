@@ -2,7 +2,7 @@ info:
   name: Bruno E2E Demo
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ testing ]
+  tags: [testing]
   seq: 2
   format: opencollection
 source:

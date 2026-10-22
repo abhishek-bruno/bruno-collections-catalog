@@ -2,7 +2,7 @@ info:
   name: Bruno CLI in Docker
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ docker ]
+  tags: [docker]
   seq: 3
   format: opencollection
 source:

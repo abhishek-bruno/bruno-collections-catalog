@@ -3,7 +3,7 @@ info:
   summary: Sample Bruno collection and Azure Pipelines setup for running API tests in Azure DevOps
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ azure ]
+  tags: [azure]
   seq: 1
   format: opencollection
 source:

@@ -3,7 +3,7 @@ info:
   summary: A collection with the Repository and User GitHub API endpoints. Good for getting started with Bruno.
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ github ]
+  tags: [github]
   seq: 2
   featured: true
 source:

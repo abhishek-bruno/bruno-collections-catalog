@@ -2,7 +2,7 @@ info:
   name: Mock Servers
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ mocks ]
+  tags: [mocks]
   seq: 3
   format: opencollection
 source:

@@ -2,7 +2,7 @@ info:
   name: gRPC (grpcbin)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ grpc ]
+  tags: [grpc]
   seq: 1
 source:
   git:

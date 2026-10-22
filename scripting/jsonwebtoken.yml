@@ -2,7 +2,7 @@ info:
   name: jsonwebtoken
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ libraries, jwt ]
+  tags: [libraries, jwt]
   seq: 4
 source:
   git:

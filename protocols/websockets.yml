@@ -2,7 +2,7 @@ info:
   name: WebSockets
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ websocket ]
+  tags: [websocket]
   seq: 2
 source:
   git:

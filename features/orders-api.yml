@@ -2,7 +2,7 @@ info:
   name: Orders API (OpenAPI Sync)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ openapi-sync ]
+  tags: [openapi-sync]
   seq: 2
   format: opencollection
 source:

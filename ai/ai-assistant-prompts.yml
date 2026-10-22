@@ -2,7 +2,7 @@ info:
   name: "AI Assistant Prompts: REST API Example"
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ llm ]
+  tags: [llm]
   seq: 3
 source:
   git:

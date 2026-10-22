@@ -3,7 +3,7 @@ info:
   summary: Hands on material and samples from the API Testing Best Practices with Bruno Webinar (Feb 18, 2026)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ testing, workshop ]
+  tags: [testing, workshop]
   seq: 5
   format: opencollection
 source:

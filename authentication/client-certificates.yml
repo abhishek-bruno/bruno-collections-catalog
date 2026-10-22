@@ -2,7 +2,7 @@ info:
   name: Client Certificates (badssl)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ mtls ]
+  tags: [mtls]
   seq: 8
   format: opencollection
 source:

@@ -3,7 +3,7 @@ info:
   summary: Bruno SCIM APIs
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ scim ]
+  tags: [scim]
   seq: 9
 source:
   git:

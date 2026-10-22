@@ -3,7 +3,7 @@ info:
   summary: Bruno and Sarvam AI together.
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ llm ]
+  tags: [llm]
   seq: 1
   format: opencollection
 source:

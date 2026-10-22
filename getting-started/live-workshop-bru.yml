@@ -2,7 +2,7 @@ info:
   name: API Testing Best Practices Workshop (.bru)
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ testing, workshop ]
+  tags: [testing, workshop]
   seq: 6
 source:
   git:

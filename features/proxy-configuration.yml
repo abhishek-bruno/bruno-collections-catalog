@@ -2,7 +2,7 @@ info:
   name: Proxy Configuration
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ proxy ]
+  tags: [proxy]
   seq: 4
   format: opencollection
 source:

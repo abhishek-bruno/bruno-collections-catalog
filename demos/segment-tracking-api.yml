@@ -2,7 +2,7 @@ info:
   name: Segment Tracking API
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ analytics ]
+  tags: [analytics]
   seq: 4
 source:
   git:

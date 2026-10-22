@@ -3,7 +3,7 @@ info:
   summary: Bruno OAuth2 Tutorial Collection
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ oauth2 ]
+  tags: [oauth2]
   seq: 6
 source:
   git:

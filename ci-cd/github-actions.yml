@@ -2,7 +2,7 @@ info:
   name: GitHub Actions
   namespace: github.com/bruno-collections
   type: collection
-  tags: [ github-actions ]
+  tags: [github-actions]
   seq: 5
 source:
   git:
