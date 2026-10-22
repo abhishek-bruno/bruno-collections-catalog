@@ -1,6 +1,6 @@
 info:
   name: OAuth 2.0 Tutorial
-  summary: Bruno OAuth2 Tutorial Collection
+  summary: Getting a token with the OAuth 2.0 client credentials grant
   namespace: github.com/bruno-collections
   type: collection
   tags: [oauth2]

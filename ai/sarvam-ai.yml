@@ -1,6 +1,6 @@
 info:
   name: Sarvam AI
-  summary: Bruno and Sarvam AI together.
+  summary: Text-to-Speech and Speech-to-Text across 23 Indian languages
   namespace: github.com/bruno-collections
   type: collection
   tags: [llm]

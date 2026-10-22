@@ -1,6 +1,6 @@
 info:
   name: Working with JSON
-  summary: This repo has a Bruno collection to familiarize yourself with testing JSON
+  summary: Testing JSON properties and arrays with Bruno
   namespace: github.com/bruno-collections
   type: collection
   tags: [testing]
